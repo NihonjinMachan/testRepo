@@ -1,5 +1,9 @@
 body{
     background: red;
     font-family: 'Raleway';
+<<<<<<< HEAD
     font-size: 2em;
+=======
+    color: aqua;
+>>>>>>> conflictTest
 }
